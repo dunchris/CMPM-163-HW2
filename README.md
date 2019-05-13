@@ -6,4 +6,4 @@ HW2B: A height map inside of a skybox/cubemap (but not inside an actual cube). T
 
 Link to HW2A:
 
-Link to HW2B:
+Link to HW2B: https://dunchris.github.io/CMPM-163-HW2B/

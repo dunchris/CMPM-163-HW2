@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "CMPM 163 HW2",
+"productVersion": "0.1",
+"dataUrl": "HW2B Build.data.unityweb",
+"wasmCodeUrl": "HW2B Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "HW2B Build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.0f2"
+}

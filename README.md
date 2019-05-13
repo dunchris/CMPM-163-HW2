@@ -4,6 +4,6 @@ HW2A: Uses a tron shader which consists of an outline shader, an x-ray shader, a
 
 HW2B: A mountainous height map inside of a skybox/cubemap (but not inside an actual cube). It uses snow, grass, and rock textures along with a noise texture to define the height map. The water is a combination of the toon water shader with the reflection code provided in class.
 
-Link to HW2A:
+Link to HW2A: In "HW2A Build.zip"
 
 Link to HW2B: https://dunchris.github.io/CMPM-163-HW2B/
